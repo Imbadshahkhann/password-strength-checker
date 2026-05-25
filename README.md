@@ -19,7 +19,7 @@ A Python tool that checks password strength using multiple security rules.
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run This
 
 ```bash
 python password_checker.py
